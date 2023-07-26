@@ -1,0 +1,10 @@
+* caveman2-widgets
+
+Enables Weblocks like widgets for caveman2
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ritschmaster/caveman2-widgets.git   |
+| commit  | b58d611  |
+| systems | caveman2-widgets |
+|---------+-------------------------------------------|
+
